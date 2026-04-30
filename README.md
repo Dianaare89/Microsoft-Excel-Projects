@@ -49,6 +49,7 @@ Finance had lower training hours but still maintained steady performance
 Excel
 Pivot Tables
 Data Visualization (Charts)
+
 💡 What I Learned
 How to clean and prepare real-world data
 How to use pivot tables to summarize large datasets
