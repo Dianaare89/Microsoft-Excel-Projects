@@ -28,6 +28,8 @@ The goal was to organize employee data and create summary reports and visualizat
 - Training hours varied significantly across departments
 
 ## Dashboard Preview
+![CheckSkills Employee Performance Dashboard](CheckSkills-Employee-Performance-Dashboard.png)
+
 💡 What I Learned
 How to clean and prepare real-world data
 How to use pivot tables to summarize large datasets
