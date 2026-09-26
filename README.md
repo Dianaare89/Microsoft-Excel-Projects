@@ -1,55 +1,33 @@
-Project Overview
+# Employee Performance Analysis – Excel
 
-This project analyzes employee data to understand how training, certifications, and experience relate to performance and salary across different departments.
+## Project Overview
+This Excel project analyzes employee performance, training, certifications, and salary data across multiple departments.
 
-The goal was to turn raw HR-style data into clear insights that could help a business make better decisions about employee development and performance.
+The goal was to organize employee data and create summary reports and visualizations that make departmental trends easier to understand.
 
-Dataset
+## Analysis Performed
+- Compared average employee performance by department
+- Calculated total training hours by department
+- Analyzed average salary by department
+- Compared certifications completed across departments
+- Created PivotTables and charts for reporting
 
-The dataset includes:
+## Excel Skills Demonstrated
+- PivotTables
+- PivotCharts
+- Data organization and cleaning
+- Sorting and filtering
+- Aggregate analysis
+- Data visualization
+- Business reporting
 
-Employee ID and Name
-Department and Job Role
-Hire Date
-Training Hours
-Certifications Completed
-Certification Expiry Date
-Monthly Performance Score
-Salary
-🧹 Data Cleaning
+## Key Insights
+- IT had the highest average monthly performance score
+- Marketing had the highest average salary
+- Sales completed the highest number of certifications
+- Training hours varied significantly across departments
 
-Before analyzing the data, I:
-
-Fixed inconsistent department names (e.g., “Sales” vs “sales”)
-Checked date formats for hire and certification dates
-Verified numeric fields like training hours and salary
-Removed any formatting issues to make the data ready for analysis
-📊 Analysis
-
-I used Excel Pivot Tables to break down key metrics by department:
-
-Total Training Hours by Department
-Average Monthly Performance Score
-Average Salary by Department
-Certifications distribution
-
-This helped me compare departments side by side and identify trends.
-
-📈 Visualizations
-Average Salary by Department
-Certifications by Department
-
-
-🔍 Key Insights
-Departments with more training hours (like Sales and IT) showed strong performance scores
-IT and Marketing had the highest average salaries
-Certification levels vary across departments and may impact performance
-Finance had lower training hours but still maintained steady performance
-🛠️ Tools Used
-Excel
-Pivot Tables
-Data Visualization (Charts)
-
+## Dashboard Preview
 💡 What I Learned
 How to clean and prepare real-world data
 How to use pivot tables to summarize large datasets
