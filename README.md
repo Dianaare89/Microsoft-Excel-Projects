@@ -29,7 +29,7 @@ The goal was to organize employee data and create summary reports and visualizat
 
 ## Dashboard Preview
 
-![CheckSkills Employee Performance Dashboard](CheckSkills-Employee-Performance-Dashboard.png)
+![CheckSkills Employee Performance Dashboard](CheckSkills-Employee-Performance-Dashboard.png.png)
 
 💡 What I Learned
 How to clean and prepare real-world data
